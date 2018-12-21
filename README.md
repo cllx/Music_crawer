@@ -1,2 +1,2 @@
 # Music_crawer
-A spider for getting music
+在前辈的基础上实现了简单的wangyi_music的下载的爬虫代码，wangyiyun_music3扩展了能够根据歌曲名下载相应的音乐，而wangyiyun_music2只能根据歌单或歌手url界面进行下载，并且简单修改了一下界面
